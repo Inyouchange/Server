@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Login</title>
+        </head>
+        <body>
+            <h1> Login </h1>
+            <div>
+                <form action="/createPerson/login" method="post">
+                    <label>Username</label>
+                    <input name="name" tyoe="name">
+                    <label>Email</label>
+                    <input name="email" type="email">
+                        <label>Password</label>
+                        <input name="password" type="password">
+                            <input type="submit" value="Login">
+                </form>
+            </div>
+        </body>
+    </html>

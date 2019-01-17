@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Get Person</title>
+</head>
+<body> <h1> name: #(name) | age: #(age) | id: #(id)</h1> </body>
+</html>
+

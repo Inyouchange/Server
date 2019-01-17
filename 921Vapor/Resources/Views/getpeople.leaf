@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Get People</title>
+</head>
+<body>
+#if(people) {
+<h3> count: #count(people) </h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        #for(person in people) {
+        <tr>
+            <td>#(person.name)</td>
+            <td>#(person.age)</td>
+        </tr>
+        }
+    </tbody>
+</table>
+} else {
+<h2>There aren't any person yet!</h2>
+}
+</body>
+</html>

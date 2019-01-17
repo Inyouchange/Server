@@ -1,0 +1,9 @@
+#set("title") {
+Title
+}
+
+#set("body") {
+<p>Welcome to Vapor!</p>
+}
+
+#embed("master")

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Alert</title>
+<script type="text/javascript" src="/scripts/alert.js"></script>
+<script>
+alertTest();
+</script>
+</head>
+<body></body>
+</html>
