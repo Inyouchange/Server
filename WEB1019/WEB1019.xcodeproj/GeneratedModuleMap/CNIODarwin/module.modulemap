@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/betty/WEB1019/.build/checkouts/swift-nio.git-2614569803070647877/Sources/CNIODarwin/include"
+    export *
+}

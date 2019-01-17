@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella "/Users/betty/WEB1019/.build/checkouts/swift-nio.git-2614569803070647877/Sources/CNIOHTTPParser/include"
+    export *
+}
